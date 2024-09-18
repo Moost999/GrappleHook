@@ -21,7 +21,7 @@ Carefully designed levels that test the player's skill in timing, accuracy, and 
 🎨 2D/3D Graphics: Customize with your preferred aesthetic style.
 🕹️ Controller Support: Play with keyboard or game controllers.
 
-![Description of GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F1884417-The-old-and-the-new-Unity-Logo&psig=AOvVaw1i5fQc9NCkOv663SIu9Xwx&ust=1726784233422000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiAsuDCzYgDFQAAAAAdAAAAABAk)
+![Description of GIF](https://cdn.dribbble.com/users/28716/screenshots/1884417/unity_logo_dribble.gif)
 
 
 
